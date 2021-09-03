@@ -1,2 +1,2 @@
 # bootstrap-estudo
-Site estático construido para estudo do Bootsrap 4
+Site estático construido para estudo do Bootstrap 4
